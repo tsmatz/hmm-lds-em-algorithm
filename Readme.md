@@ -11,6 +11,6 @@ I'll construct programming code from scratch without packages in Python, as poss
 - [Hidden Markov Models (HMM)](01-hmm-em-algorithm.ipynb)
 - [Linear Dynamical Systems (LDS)](02-lds-em-algorithm.ipynb)
 
->> Note : For time series in sequential data, see "Introduce Time Series Analysis with ARIMA[my post](https://tsmatz.wordpress.com/2017/07/26/time-series-arima-r-tutorial-01-ar-ma/)".
+> Note : For time series in sequential data, see "Introduce Time Series Analysis with ARIMA[my post](https://tsmatz.wordpress.com/2017/07/26/time-series-arima-r-tutorial-01-ar-ma/)".
 
 Reference : "[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-g4zE85KQgCXaCQfYBhtuFQ&epi=TnL5HPStwNw-g4zE85KQgCXaCQfYBhtuFQ&irgwc=1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__vhvv9m6caokf6nb62oprh029if2xo0rux3ga300300%29%287593%29%281243925%29%28TnL5HPStwNw-g4zE85KQgCXaCQfYBhtuFQ%29%28%29&irclickid=_vhvv9m6caokf6nb62oprh029if2xo0rux3ga300300)" (Christopher M. Bishop, Microsoft) Chapter 13
