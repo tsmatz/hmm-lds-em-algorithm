@@ -5,8 +5,7 @@ Historically hidden Markov models (HMM) and linear dynamical systems (LDS) were 
 
 When there exist some sequential pattern in data, in which the sets of data is not independent or identically distributed (shortly, i.i.d.), these examples (tutorials) will help you find patterns in Markov chain.
 
-To make you have a clear picture for how it will be resolved in mathematics, I'll also give you mathematical descriptions, with clear examples in Python script.<br>
-I'll construct programming code from scratch without packages in Python, as possible.
+To make you have a clear picture for how it will be resolved in mathematics, I'll also give you mathematical descriptions, with clear examples in Python script. (I'll construct programming code from scratch without packages in Python, as possible.)
 
 - [Hidden Markov Models (HMM)](01-hmm-em-algorithm.ipynb)
 - [Linear Dynamical Systems (LDS)](02-lds-em-algorithm.ipynb)
