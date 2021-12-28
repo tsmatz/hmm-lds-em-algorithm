@@ -1,6 +1,6 @@
 # Hidden Markov Models (HMM) and Linear Dynamical Systems (LDS)
 
-<span style="font-size:larger;">\- Estimate Sequential Data with Hidden States in Python \-<span>
+**\- Estimate Sequential Data with Hidden States in Python \-**
 
 In this repository, I'll introduce you machine learning methods to analyze sequential data, Hidden Markov Models (HMM) and Linear Dynamical Systems (LDS). These both models are mixture models, in which the choice of mixture component for each observation will depend on the choice of component for the previous observation.
 
