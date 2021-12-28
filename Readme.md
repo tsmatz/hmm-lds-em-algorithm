@@ -13,7 +13,7 @@ When there exist some sequential pattern in data, in which the sets of data is n
 
 Historically hidden Markov models (HMM) and linear dynamical systems (LDS) were developed independently. However, as you'll find in above examples, these models have the deep relationship.
 
-> Note : For time series in sequential data, see "[Introduce Time Series Analysis with ARIMA](https://tsmatz.wordpress.com/2017/07/26/time-series-arima-r-tutorial-01-ar-ma/)".
+> Note : For time series analysis in sequential data based on AR (auto-regressive) and MA (moving average), see "[Introduce Time Series Analysis with ARIMA](https://tsmatz.wordpress.com/2017/07/26/time-series-arima-r-tutorial-01-ar-ma/)".
 
 ## Reference
 
