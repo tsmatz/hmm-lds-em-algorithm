@@ -1,4 +1,4 @@
-# Hidden Markov Models (HMM) and Linear Dynamical Systems (LDS)
+# Estimate Hidden Markov Models (HMM) and Linear Dynamical Systems (LDS)
 
 **\- Estimate Sequential Data with Hidden States in Python \-**
 
